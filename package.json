@@ -1,7 +1,7 @@
 {
-  "name": "superevil-tslint-config-airbnb",
+  "name": "@superevilmegaco/superevil-tslint-config-airbnb",
   "description": "A super evil TSLint config for the Airbnb JavaScript Style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "walialu",
   "bugs": {
     "url": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/issues"
@@ -28,7 +28,10 @@
   "peerDependencies": {
     "tslint": "^5.5.0"
   },
-  "repository": "github:superevilmegaco/superevil-tslint-config-airbnb",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superevilmegaco/superevil-tslint-config-airbnb.git"
+  },
   "scripts": {
     "test": "echo \"No tests specified :'(\"",
     "build": "echo \"No build specified\""
