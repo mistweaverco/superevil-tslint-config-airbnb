@@ -9,6 +9,7 @@ module.exports = {
         rules: { // based on https://github.com/airbnb/javascript/commit/3c3074e502dc9ebc7dbdad372df474e49f52d512
                 'interface-name': [true, 'always-prefix'],
                 'curly': [true, 'ignore-same-line'],
+                'no-trailing-whitespace': [true, 'ignore-template-strings'],
                 'prefer-const': true, // 2.1, 13.1
                 'no-var-keyword': true, // 2.2
                 'object-literal-shorthand': true, // 3.3, 3.4
