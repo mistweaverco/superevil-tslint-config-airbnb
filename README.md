@@ -64,6 +64,7 @@ After the installation completes, reload the IDE.
 [tslint-eslint-rules]: https://www.npmjs.com/package/tslint-eslint-rules
 [tslint-microsoft-contrib]: https://www.npmjs.com/package/tslint-microsoft-contrib
 [yarn-install]: https://yarnpkg.com/en/docs/install
+[yarn]: https://yarnpkg.com/
 [npm-install]: https://www.npmjs.com/get-npm
 [vscode-tslint-plugin]: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 [typescript-npm]: https://www.npmjs.com/package/typescript
