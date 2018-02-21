@@ -32,7 +32,7 @@ Simply put this into your `tslint.json` configuration file:
 ```json
 {
   "defaultSeverity": "error",
-  "extends": "superevil-tslint-config-airbnb",
+  "extends": "@superevilmegaco/superevil-tslint-config-airbnb",
   "jsRules": {},
   "rules": {}
 }
