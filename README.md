@@ -3,10 +3,40 @@
 A super evil [TSLint config][tslint-website]
 for the [Airbnb JavaScript Style Guide][airbnb-js-website]
 
+This project started as a hard-fork of the *tslint-config-airbnb* nodejs
+package, because it lacked some rules and wasn't as strict as
+[Ströer Digital Publishing GmbH][sdp-github] wanted it to be.
+
+# Rules
+
+For a complete overview of all rules that are applied/enforced by this package,
+see [Rules.md][rules-doc].
+
 # Prerequisites
 
 * [yarn][yarn-install] or [npm][npm-install]
 * [typescript][typescript-npm]
+
+# Common pitfalls
+
+## Using a different `tslint.json` configuration file
+
+Make sure that you're using the exact
+[same TSLint configuration file](#tslint-configuration) as described.
+
+## Using an `.editorconfig` file
+
+If you're using an `.editorconfig` file, make sure it applies the same rules
+that are part of this package.
+
+## Using webpack
+
+If you're using an `webpack`, make sure that the configuration file(s) for
+webpack don't interfere with the rules that are applied/enforced by this
+package.
+
+Check the `tslint-loader` section of your webpack config, if you happen to use
+linters with webpack.
 
 ## Installation
 
@@ -68,4 +98,6 @@ After the installation completes, reload the IDE.
 [npm-install]: https://www.npmjs.com/get-npm
 [vscode-tslint-plugin]: https://marketplace.visualstudio.com/items?itemName=eg2.tslint
 [typescript-npm]: https://www.npmjs.com/package/typescript
+[sdp-github]: https://github.com/stroeerdigitalpublishing
+[rules-doc]: Rules.md
 
