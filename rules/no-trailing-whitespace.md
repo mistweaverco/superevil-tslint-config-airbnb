@@ -12,7 +12,7 @@ as it prevents accidental whitespace from being committed.
 ```json
 {
   "rules": {
-    "no-trailing-whitespace": [true, "ignore-template-strings"],
+    "no-trailing-whitespace": [true, "ignore-template-strings"]
   }
 }
 ```

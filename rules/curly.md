@@ -22,7 +22,7 @@ This rule could prevent such a mistake.
 ```json
 {
   "rules": {
-    "curly": [true, "ignore-same-line"],
+    "curly": [true, "ignore-same-line"]
   }
 }
 ```
