@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Interfaces start with capital `I`]()
+- [Require interface names to begin with a capital `I`](rules/interface-name.md)
 - [Enforce braces for `if/for/do/while` statements]()
 - [Disallow trailing whitespace at the end of a line]()
 - [Require that variable declarations use `const` instead of `let` and `var` if possible.]()
