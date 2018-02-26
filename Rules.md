@@ -3,8 +3,8 @@
 ## Table of contents
 
 - [Require interface names to begin with a capital `I`](rules/interface-name.md)
-- [Enforce braces for `if/for/do/while` statements]()
-- [Disallow trailing whitespace at the end of a line]()
+- [Enforce braces for `if/for/do/while` statements](rules/curly.md)
+- [Disallow trailing whitespace at the end of a line](rules/no-trailing-whitespace.md)
 - [Require that variable declarations use `const` instead of `let` and `var` if possible.]()
 - [Disallow usage of the `var` keyword.]()
 - [Enforce use of ES6 object literal shorthand]()
