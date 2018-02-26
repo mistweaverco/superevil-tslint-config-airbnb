@@ -78,7 +78,7 @@ Select the [TSLint Plugin][vscode-tslint-plugin] and install it.
 
 After the installation completes, reload the IDE.
 
-## Rules
+## Additional Rules and Linter-Extensions
 
 * [tslint][tslint]
 * [tslint-consistent-codestyle][tslint-consistent-codestyle]
