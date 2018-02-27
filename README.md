@@ -46,13 +46,13 @@ or with [npm][npm-install].
 ### With yarn
 
 ```bash
-yarn add @superevilmegaco/superevil-tslint-config-airbnb
+yarn add --dev @superevilmegaco/superevil-tslint-config-airbnb
 ```
 
 ### With npm
 
 ```bash
-npm install --save @superevilmegaco/superevil-tslint-config-airbnb
+npm install --save-dev @superevilmegaco/superevil-tslint-config-airbnb
 ```
 
 ### TSLint configuration
