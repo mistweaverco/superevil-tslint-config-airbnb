@@ -1,7 +1,7 @@
 {
   "name": "@superevilmegaco/superevil-tslint-config-airbnb",
   "description": "A super evil TSLint config for the Airbnb JavaScript Style",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "walialu",
   "bugs": {
     "url": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/issues"
