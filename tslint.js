@@ -1,7 +1,12 @@
 const path = require('path');
 
 module.exports = {
-        linterOptions: { exclude: ['../../../**/*.d.ts'] },
+        linterOptions: {
+                exclude: [
+                        '../../../package.json',
+                        '../../../**/*.d.ts',
+                ]
+        },
         rulesDirectory: [
                 path.join(path.dirname(require.resolve('tslint-consistent-codestyle')), './'),
                 path.join(path.dirname(require.resolve('tslint-eslint-rules')), 'dist/rules'),
