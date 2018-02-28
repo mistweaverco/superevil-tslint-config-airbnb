@@ -1,6 +1,7 @@
 # `prefer-const`
 
-Require that variable declarations use `const` instead of `let` and `var` if possible.
+Require that variable declarations use `const` instead of
+`let` and `var` if possible.
 
 ## Rationale
 

@@ -1,6 +1,6 @@
 # `interface-name`
 
-Require interface names to begin with a capital `I`
+Require interface names to begin with a capital `I`.
 
 ## Rationale
 
