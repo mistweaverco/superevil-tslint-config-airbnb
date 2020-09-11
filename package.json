@@ -1,34 +1,34 @@
 {
-  "name": "@superevilmegaco/superevil-tslint-config-airbnb",
-  "description": "A super evil TSLint config for the Airbnb JavaScript Style",
-  "version": "1.0.7",
-  "author": "walialu",
-  "bugs": {
-    "url": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/issues"
-  },
-  "dependencies": {
-    "tslint-consistent-codestyle": "^1.10.0",
-    "tslint-eslint-rules": "^4.1.1",
-    "tslint-microsoft-contrib": "~5.0.1"
-  },
-  "devDependencies": {},
-  "homepage": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/#readme",
-  "keywords": [
-    "airbnb",
-    "tslint",
-    "typescript"
-  ],
-  "license": "Apache-2.0",
-  "main": "tslint.js",
-  "peerDependencies": {
-    "tslint": "^5.5.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/superevilmegaco/superevil-tslint-config-airbnb.git"
-  },
-  "scripts": {
-    "test": "echo \"No tests specified :'(\"",
-    "build": "echo \"No build specified\""
-  }
+        "name": "@superevilmegaco/superevil-tslint-config-airbnb",
+        "description": "A super evil TSLint config for the Airbnb JavaScript Style",
+        "version": "1.1.0",
+        "author": "walialu",
+        "bugs": {
+                "url": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/issues"
+        },
+        "dependencies": {
+                "tslint-consistent-codestyle": "^1.10.0",
+                "tslint-eslint-rules": "^4.1.1",
+                "tslint-microsoft-contrib": "~5.0.1"
+        },
+        "devDependencies": {},
+        "homepage": "https://github.com/superevilmegaco/superevil-tslint-config-airbnb/#readme",
+        "keywords": [
+                "airbnb",
+                "tslint",
+                "typescript"
+        ],
+        "license": "Apache-2.0",
+        "main": "tslint.js",
+        "peerDependencies": {
+                "tslint": "^5.5.0"
+        },
+        "repository": {
+                "type": "git",
+                "url": "git+https://github.com/superevilmegaco/superevil-tslint-config-airbnb.git"
+        },
+        "scripts": {
+                "test": "echo \"No tests specified :'(\"",
+                "build": "echo \"No build specified\""
+        }
 }
